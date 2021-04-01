@@ -1,5 +1,5 @@
 # playstationCDNSelector
-PSCDN测速小工具
+PSCDN测速小工具 可以协助解决NPS Browser、黑商店无法访问 亦或者是 官方商店无法访问，速度慢等问题。
 
 ## 前言
 `playstation.net`使用国内的DNS无法查询出正确的IP地址,导致无法下载游戏、更新等。
